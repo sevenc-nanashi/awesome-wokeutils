@@ -7,11 +7,12 @@ I define wokeutils as:
 - Is CLI utils
 - Intended to replace `coreutils` or commonly used CLI utils
 - Not written in C/C++
-- Look similar to original utils
 
 Inspired from: <https://x.com/crackticker/status/1925008784096698811>
 
 ## List
+
+- 🦀 [uutils/coreutils](https://github.com/uutils/coreutils): Woke coreutils
 
 - 🦀 [eza](https://github.com/eza-community/eza): Woke ls\
 ![image](https://github.com/user-attachments/assets/1339d02b-ec18-4a1d-ad7b-e5356d9cea49)
@@ -28,3 +29,4 @@ Inspired from: <https://x.com/crackticker/status/1925008784096698811>
 - 🦀 [ccsum](https://github.com/sevenc-nanashi/ccsum): Woke sha*sum\
 ![image](https://github.com/user-attachments/assets/a508992c-cd72-4ddb-b672-a0b84942636a)
 
+- 🐁 [task](https://github.com/go-task/task): Woke "make-as-task-runner"
