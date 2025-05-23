@@ -17,7 +17,7 @@ Inspired from: <https://x.com/crackticker/status/1925008784096698811>
 - 🦀 [eza](https://github.com/eza-community/eza): Woke ls\
 ![image](https://github.com/user-attachments/assets/1339d02b-ec18-4a1d-ad7b-e5356d9cea49)
 
-- 🦀 [fd](https://github.com/sharkdp/fd): Woke fd\
+- 🦀 [fd](https://github.com/sharkdp/fd): Woke find\
 ![image](https://github.com/user-attachments/assets/a9ab1103-0e4a-4220-bdf2-13912a6e27ba)
 
 - 🦀 [tealdeer](https://github.com/tealdeer-rs/tealdeer): Woke man\
